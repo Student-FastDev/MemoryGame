@@ -1,8 +1,8 @@
 ![Gigathon Icon](https://i.imgur.com/1mSIKP4.png)
 
 This README was written in two languages:
-- **English** [Memory-Game](#memory-game-english).
--  **Polski** [Gra-w-Memory](#gra-w-memory-polski).
+- **English** [Memory Game](#memory-game-english).
+-  **Polski** [Gra w Memory](#gra-w-memory-polski).
 
 # Memory-Game (English)
 
@@ -50,7 +50,7 @@ To run this program, you need a C++ development environment. The game is compati
 
    This will create an executable named `MeM`.
 
-   [You can also download already compiled version to skip this step](https://github.com/Student-FastDev/Memory-Game/releases).
+   [You can also download already compiled version to skip this step](https://github.com/Student-FastDev/MemoryGame/releases).
 
 5. **Run the game**:
    After compiling, run the game by typing:
@@ -134,7 +134,7 @@ Input:
 
 ---
 
-# Gra-w-Memory (Polski)
+# Gra w Memory (Polski)
 
 ## Spis treści
 1. [Opis projektu](#opis-projektu).
@@ -180,7 +180,7 @@ Aby uruchomić ten program, potrzebujesz środowiska programistycznego C++. Gra 
 
    To stworzy plik wykonywalny o nazwie `MeM`.
 
-   [Możesz także pobrać skompilowany plik, aby pominąć ten krok](https://github.com/Student-FastDev/Memory-Game/releases).
+   [Możesz także pobrać skompilowany plik, aby pominąć ten krok](https://github.com/Student-FastDev/MemoryGame/releases).
 
 5. **Uruchom grę**:
    Po skompilowaniu uruchom grę, wpisując:
